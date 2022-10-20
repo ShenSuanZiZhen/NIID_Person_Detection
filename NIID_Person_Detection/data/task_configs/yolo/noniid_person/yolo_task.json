@@ -1,0 +1,11 @@
+{
+    "model_name": "Yolo",
+    "model_config": "data/task_configs/yolo/noniid_person/yolo_model.json",
+    "log_dir": "yolo/noniid_person",
+    "model_path": "yolo_model.pkl",
+    "MIN_NUM_WORKERS": 5,
+    "MAX_NUM_ROUNDS": 50,
+    "NUM_TOLERATE": -1,
+    "NUM_CLIENTS_CONTACTED_PER_ROUND": 5,
+    "ROUNDS_BETWEEN_VALIDATIONS": 50
+}

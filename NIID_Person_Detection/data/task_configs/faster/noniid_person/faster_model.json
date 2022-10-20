@@ -1,0 +1,9 @@
+{
+    "model_name": "fasterrcnn-faccee",
+    "env": "FasterRCNN",
+    "plot_every": 10,
+    "batch_size": 1,
+    "label_names": [
+        "person"
+    ]
+}

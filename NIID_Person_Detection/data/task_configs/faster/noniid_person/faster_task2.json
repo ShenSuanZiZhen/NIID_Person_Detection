@@ -1,0 +1,7 @@
+{
+    "model_name": "FasterRCNN",
+    "model_config": "data/task_configs/faster/noniid_person/faster_model.json",
+    "log_filename": "faster/noniid_person/FL_client_2_log",
+    "data_path": "/home/ykn/dataset/NonIID_Person_Detect_Dataset/images/camera_2",
+    "local_epoch": 1
+}

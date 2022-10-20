@@ -1,0 +1,11 @@
+{
+    "model_name": "FasterRCNN",
+    "model_config": "data/task_configs/faster/noniid_person/faster_model.json",
+    "log_dir": "faster/noniid_person",
+    "model_path": "faster_model.pkl",
+    "MIN_NUM_WORKERS": 5,
+    "MAX_NUM_ROUNDS": 50,
+    "NUM_TOLERATE": -1,
+    "NUM_CLIENTS_CONTACTED_PER_ROUND": 5,
+    "ROUNDS_BETWEEN_VALIDATIONS": 50
+}

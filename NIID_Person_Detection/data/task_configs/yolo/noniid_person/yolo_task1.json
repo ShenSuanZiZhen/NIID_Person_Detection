@@ -1,0 +1,11 @@
+{
+    "model_name": "Yolo",
+    "model_config": "data/task_configs/yolo/noniid_person/yolo_model.json",
+    "log_filename": "yolo/noniid_person/FL_client_1_log",
+    "train": "/home/ykn/dataset/NonIID_Person_Detect_Dataset/list_file/camera_1/train.txt",
+    "test": "/home/ykn/dataset/NonIID_Person_Detect_Dataset/list_file/camera_1/test.txt",
+    "names": "/home/ykn/dataset/NonIID_Person_Detect_Dataset/list_file/classes.names",
+    "n_cpu": 4,
+    "local_epoch": 1,
+    "batch_size": 4
+}
