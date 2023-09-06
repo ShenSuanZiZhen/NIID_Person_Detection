@@ -28,7 +28,7 @@ If it is trained under the same server, in order to enhance the stability and ef
 ## 1 Data set preparation
 
 The data set can be obtained in the following two ways:
-- NIPD Data set: This dataset is a non-IID pedestrian detection dataset, which is collected from five cameras in the Innovation Center Square of University of Electronic Science and Technology of China and published on IEEE DataPort.
+- NIPD Data set: URL：https://pan.baidu.com/s/1aMJv5C634krTiQ4PkrYuvg?pwd=z9rc password：z9rc 
 
 
 - Street Data set: This dataset was created by WeBank and is currently **only open to students**. If you are a student, you can register with edu. Readers can access the [website](https://dataset.fedai.org/#/datasetfed) to register and obtain data.
